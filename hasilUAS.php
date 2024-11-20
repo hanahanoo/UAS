@@ -28,7 +28,7 @@ if(isset($_POST['proses'])){
   $cetak = new penggajihan();
 
     if($status == "Tetap") {
-       $bonus = 500000;
+       $bonus = 1000000;
     } else {
       $bonus = 0;
     }

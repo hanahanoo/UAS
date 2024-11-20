@@ -50,10 +50,6 @@
                                                 <option value="SMK">SMK</option>
                                             </select>
                                         </div>
-                                        <div class="mb-3">
-                                            <label for="exampleInputPassword1" class="form-label">Tanggal Gaji</label>
-                                            <input type="date" class="form-control" name="tgl" id="" required>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -80,6 +76,10 @@
                                                 <option value="Tetap">Tetap</option>
                                                 <option value="Kontrak">Kontrak</option>
                                             </select>
+                                        </div>
+                                        <div class="mb-3" align="left">
+                                            <label for="exampleInputPassword1" class="form-label">Tanggal Gaji</label>
+                                            <input type="date" class="form-control" name="tgl" id="" required>
                                         </div>
                                     </div>
                                     <div class="col">
